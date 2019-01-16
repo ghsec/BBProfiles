@@ -7,7 +7,8 @@ BurpBounty scanner: https://github.com/wagiro/BurpBounty
 ## Profiles
 ### Active Scanner
 * ACTIVE-SQLi-Error-SQLmap.bb - Detects "Error-Based-SQLi" with SQLMap Regexp's 
+* ACTIVE-OpenRedirect.bb - Detect "Open Redirect" vulnerability
 
 ### Passive Scanner
 * PASSIVE-EndpointsExtractor.bb - Endpoints extractor.
-* PASSIVE-swaggerFinder.bb - Find "swagger-ui.html" files  
+* PASSIVE-swaggerFinder.bb - Extract "swagger-ui.html" files in response body  

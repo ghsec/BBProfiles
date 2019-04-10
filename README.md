@@ -12,3 +12,4 @@ BurpBounty scanner: https://github.com/wagiro/BurpBounty
 ### Passive Scanner
 * PASSIVE-EndpointsExtractor.bb - Endpoints extractor.
 * PASSIVE-swaggerFinder.bb - Extract "swagger-ui.html" files in response body  
+* PASSIVE-Errors_Vulns_Detect.bb - Extract Errors and detect vulnerabilities
